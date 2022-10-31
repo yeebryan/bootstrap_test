@@ -1,0 +1,62 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h3{
+  text-align: center;
+}
+
+.navbar-brand{
+   float: left;
+    width: auto;
+    height: auto;
+    padding-left: 1rem;
+}
+
+.tofu-main{
+  opacity: 0.5;
+  width: 100%;
+}
+
+.tofu2{
+  width: 100%;
+  height: auto;
+
+}
+
+h1{
+  text-align: center;
+}
+
+.us-soy{
+  width: 100%;
+  height: auto;
+}
+
+.contactme {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Centered text */
+.centered {
+  font-size: 30px;
+  background-color: red;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.contactus {
+  width: 100%;
+  height: auto;
+  opacity: 50%;
+}
+
+.usus{
+  width: 100%;
+  opacity: 0.5;
+}
